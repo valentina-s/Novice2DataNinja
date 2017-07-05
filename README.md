@@ -5,3 +5,10 @@
 *Data Scientist, eSicence Institute, University of Washington*
 
 Prerequisites: Anaconda Python 3.6
+
+Topics:
+
+* Spatial Networks
+* Web scraping & Text Mining
+* Sound
+* Videos
