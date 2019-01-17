@@ -17,6 +17,6 @@ Topics:
 
 [Sound dataset](https://zenodo.org/record/574438#.WV0MQ9PysmI)
 
-[Video dataset](https://storage.googleapis.com/ooivideos-test-bucket/MAH08632.MP4)
+[Video dataset](https://drive.google.com/file/d/1N23DADOWU_rLS-i2UyxFBwYzOBs9iKlE/view?usp=sharing)
 
 Unpack in data folder.
